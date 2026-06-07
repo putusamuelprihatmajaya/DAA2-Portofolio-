@@ -1,37 +1,29 @@
 # DAA2-Portofolio - Putu Samuel Prihatmajaya, M.Kom
 
-## 📘 Tentang Repository Ini
-Repository ini adalah portofolio untuk mata kuliah **Desain dan Analisis Algoritma II** (Semester 4).  
-Berisi implementasi algoritma tingkat lanjut yang disesuaikan dengan **standar industri dan tren terkini (AI, Cybersecurity)**.
+## 👤 Tentang Dosen
+- **Nama:** Putu Samuel Prihatmajaya, M.Kom
+- **Program Studi:** Teknik Informatika
+- **Instansi:** STIKOM Yos Sudarso Purwokerto
+
+## 📚 Tentang Repository Ini
+Repository ini adalah **portofolio** untuk mata kuliah Desain dan Analisis Algoritma II.
+
+Mahasiswa dapat melihat repository ini sebagai referensi untuk membuat portofolio mereka sendiri.
 
 ## 🧠 Topik Algoritma yang Dicakup
 - Dynamic Programming (Knapsack, LCS, Matrix Chain)
-- Advanced Graph Algorithms (Shortest Path, MST, Network Flow)
-- Greedy Algorithms & Matroid Theory
-- Approximation Algorithms untuk NP-Hard Problems
-- Randomized Algorithms (Monte Carlo, Las Vegas)
+- Graph Algorithms (Dijkstra, Prim, Kruskal, BFS, DFS)
+- Greedy Algorithms (Huffman Coding)
+- Approximation Algorithms
+- Randomized Algorithms
 - String Algorithms (KMP, Rabin-Karp)
-- Parallel & Distributed Algorithms (MapReduce pattern)
 
 ## 🛠 Tools yang Digunakan
-- **Bahasa Pemrograman:** Python 3.x
-- **Version Control:** Git & GitHub
-- **Platform Coding:** Google Colab / Visual Studio Code
-- **Testing:** Unit test (pytest)
+- Python 3.x
+- Git & GitHub
 
-## 📂 Struktur Folder (Rencana)
-/DP - Dynamic Programming
-/Graph - Graph Algorithms
-/Greedy - Greedy Algorithms
-/Approximation - Approximation Algorithms
-/Randomized - Randomized Algorithms
-/String - String Algorithms
-/Parallel - Parallel & Distributed Algorithms
-
-
-## 📫 Kontak & Kolaborasi
-Putu Samuel Prihatmajaya, M.Kom  
-Dosen Teknik Informatika - STIKOM Yos Sudarso Purwokerto  
-[GitHub Profile](https://github.com/putusamuelprihatmajaya)
+## 📫 Kontak
+- **GitHub:** github.com/putusamuelprihatmajaya
+- **Email:** putu.samuel@stikomyos.ac.id
 
 ---

@@ -1,4 +1,3 @@
-"""
 Knapsack Problem Solver
 ========================
 Tiga pendekatan untuk menyelesaikan 0/1 Knapsack Problem:
